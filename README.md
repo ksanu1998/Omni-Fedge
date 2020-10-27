@@ -8,6 +8,6 @@ In this paper, we consider the problem of Federated Learning (FL) under non-i.i.
 <b>Index Terms</b>— Federated Learning, Neural Network, Bayesian Approach, Distributed Machine Learning, PAC Learning.<br>
 <hr>
 Sai Anuroop Kesanapalli is a final year undergraduate in the Department of Computer Science and Engineering at IIT Dharwad. <br>
-B. N. Bharath is Assistant Professor in the Department of Electrical Engineering at IIT Dharwad. <br>
+B. N. Bharath is an Assistant Professor in the Department of Electrical Engineering at IIT Dharwad. <br>
 <hr><br>
 © 2020 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
