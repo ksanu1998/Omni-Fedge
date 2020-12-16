@@ -1,4 +1,5 @@
 # Omni-Fedge
+[![HitCount](http://hits.dwyl.com/ksanu1998/https://githubcom/ksanu1998/Omni-Fedge.svg)](http://hits.dwyl.com/ksanu1998/https://githubcom/ksanu1998/Omni-Fedge)<br>
 <b>Federated Algorithm With Bayesian Approach: Omni-Fedge</b> <br>
 <b>Authors:</b> Sai Anuroop Kesanapalli and B. N. Bharath <br>
 Submitted to <b>ICASSP 2021</b> <br>
